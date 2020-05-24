@@ -1,0 +1,6 @@
+framework module Pods_BackgroundTask {
+  umbrella header "Pods-BackgroundTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
