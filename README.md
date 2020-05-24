@@ -1,2 +1,2 @@
-# BackgroundTask
-Handling background task using BackgroundTask framework in iOS 13
+# Background Task
+Handling background task using BackgroundTask framework in iOS 13.
